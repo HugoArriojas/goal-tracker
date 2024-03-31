@@ -1,5 +1,3 @@
-Note: Please rename `.env.sample` to `.env` and add in your own `MONGO_URI` to test
-
 Use `npm run server` to start server
 Use `npm run client` to run the frontend
 Use `npm run dev` to run both in dev mode
